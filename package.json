@@ -1,0 +1,16 @@
+{
+  "name": "imagic-mcp",
+  "version": "1.1.1",
+  "description": "MCP server for image conversion, resizing, and merging — no uploads, runs locally",
+  "type": "module",
+  "main": "index.js",
+  "bin": { "imagic-mcp": "./index.js" },
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "sharp": "^0.33.0",
+    "zod": "^3.22.0"
+  },
+  "keywords": ["mcp", "image", "convert", "resize", "merge", "imagic"],
+  "license": "MIT"
+}
