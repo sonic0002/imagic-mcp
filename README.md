@@ -2,6 +2,8 @@
 
 Convert, resize, and merge images directly from Claude Desktop, Cursor, and other MCP-compatible AI assistants — locally, with no uploads. Part of [ImagicSave](https://imagicsave.com).
 
+[![imagic-mcp MCP server](https://glama.ai/mcp/servers/sonic0002/imagic-mcp/badges/card.svg)](https://glama.ai/mcp/servers/sonic0002/imagic-mcp)
+
 ## Requirements
 
 - Node.js 18 or later (includes npm)
