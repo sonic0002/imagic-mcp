@@ -1,6 +1,6 @@
 # Imagic MCP Server
 
-Convert, resize, and merge images directly from Claude Desktop, Cursor, and other MCP-compatible AI assistants — locally, with no uploads.
+Convert, resize, and merge images directly from Claude Desktop, Cursor, and other MCP-compatible AI assistants — locally, with no uploads. Part of [ImagicSave](https://imagicsave.com).
 
 ## Requirements
 
