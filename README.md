@@ -192,3 +192,26 @@ npm publish
 ```
 
 For subsequent updates, bump the `version` field in `package.json` then run `npm publish` again.
+
+## Contributing
+
+Contributions are welcome! Here's how to get started:
+
+1. Fork the repository and create a branch from `main`
+2. Install dependencies: `npm install`
+3. Make your changes in `index.js`
+4. Test locally (see [Local Development & Testing](#local-development--testing))
+5. Open a pull request with a clear description of what you changed and why
+
+**Good areas to contribute:**
+
+- New resize presets
+- Additional output formats
+- Performance improvements for large batches
+- Bug fixes
+
+Please keep pull requests focused — one feature or fix per PR. For larger changes, open an issue first to discuss the approach.
+
+## License
+
+MIT © [Ke Pi](https://github.com/pike6)
