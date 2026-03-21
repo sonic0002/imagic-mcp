@@ -214,4 +214,4 @@ Please keep pull requests focused — one feature or fix per PR. For larger chan
 
 ## License
 
-MIT © [Ke Pi](https://github.com/pike6)
+MIT © [ImagicSave](https://github.com/sonic0002)
